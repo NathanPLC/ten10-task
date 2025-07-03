@@ -1,0 +1,16 @@
+{
+  "name": "ten10-task",
+  "version": "1.0.0",
+  "description": "Interest Calulator Application automation",
+  "license": "ISC",
+  "author": "Nathaniel PLC",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "interest-suite": "cypress run --headless --spec cypress/e2e/interest-calculator-app/*.cy.js"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.1",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}

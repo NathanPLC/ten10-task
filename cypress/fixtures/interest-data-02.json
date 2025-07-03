@@ -1,0 +1,7 @@
+{
+  "principalAmount": 2000,
+  "interestRate": 6,
+  "duration": "Monthly",
+  "interestMsg": "Interest Amount: 10.00",
+  "totalMsg": "Total Amount with Interest: 2010.00"
+}

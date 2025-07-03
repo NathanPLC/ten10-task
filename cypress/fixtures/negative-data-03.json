@@ -1,0 +1,6 @@
+{
+  "principalAmount": 5500,
+  "interestRate": 11,
+  "duration": "Monthly",
+  "alertMsg": "Please fill in all fields."
+}

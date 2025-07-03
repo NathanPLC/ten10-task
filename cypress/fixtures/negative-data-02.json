@@ -1,0 +1,6 @@
+{
+  "principalAmount": 0,
+  "interestRate": 9,
+  "duration": "Daily",
+  "alertMsg": "Please fill in all fields."
+}
